@@ -7,6 +7,8 @@ public class ExampleGit {
 
 	}
 	
-	
+	private void suresh() {
+		System.out.println("Hi am suresh");
+	}
 
 }
