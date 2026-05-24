@@ -6,7 +6,11 @@ public class ExampleGit {
 		System.out.println("Task 1");
 
 	}
-	
+	private void pandeeshwari() {
+		
+		System.out.println("Hi am Pandeeshwari");
+
+	}
 	
 
 }
